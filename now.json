@@ -1,3 +1,6 @@
 {
-  "scope": "dsds"
+  "scope": "dsds",
+  "github": {
+    "enabled": false
+  }
 }
